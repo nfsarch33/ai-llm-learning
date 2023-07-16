@@ -1,0 +1,18 @@
+# Position Embedding in Transformer
+- Purpose
+    - To incorporate the order of the words into the model [[1](https://dx.doi.org/10.1017/s1351324923000128)]
+- Importance
+    - Transformers do not inherently understand the sequence or order of words
+    - Crucial for the model to understand the context and semantics of a sentence correctly
+- Types of Position Embeddings
+    - Absolute Position Embedding
+        - The initial proposal of a sinusoid embedding is fixed and not learnable [[4](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.298)]
+    - Relative Position Embedding
+        - A successful method to explicitly and efficaciously encode position information into Transformer models [[3](https://dx.doi.org/10.18653/v1/2021.emnlp-main.237)]
+        - Different methods exist to enhance the perception ability at different relative positions [[3](https://dx.doi.org/10.18653/v1/2021.emnlp-main.237)]
+- Applications
+    - Machine Translation [[2](https://dx.doi.org/10.1109/ACCESS.2021.3122921)]
+    - Question Answering [[4](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.298)]
+- Improvements
+    - New methods are proposed to encourage increased interaction between query, key, and relative position embeddings in the self-attention mechanism [[3](https://dx.doi.org/10.18653/v1/2021.emnlp-main.237)]
+    - Proven to improve the accuracy of large models with little computational overhead [[4](https://dx.doi.org/10.18653/v1/2020.findings-emnlp.298)]

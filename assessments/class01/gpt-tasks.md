@@ -1,0 +1,33 @@
+# AI Large Language Models (LLMs)
+- GPT-4 [[7](https://beebom.com/best-large-language-models-llms/)]
+    - Advanced reasoning understanding
+    - Proficiency in multiple academic exams
+    - Advanced coding capability
+- Prompt Crafting [[1](https://lifearchitect.ai/prompt-crafting/)]
+    - Important for the use of any LLM
+    - Punctuation matters
+    - Treat prompts as complete document entries
+- Emerging Architectures for LLM Applications [[2](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)]
+    - Powerful new primitive for building software
+    - Common systems, tools, and design patterns used by AI startups
+- FineTuning LLMs [[3](https://blog.monsterapi.ai/no-code-fine-tuning-llm/)]
+    - Essential practice in natural language processing (NLP) domain
+    - Enhances performance for specific tasks
+    - Makes models more accurate, context-aware, and aligned with the target application
+- Vision-Language Models [[5](https://www.marktechpost.com/2023/07/13/a-new-ai-research-introduces-gpt4roi-a-vision-language-model-based-on-instruction-tuning-large-language-model-llm-on-region-text-pairs/)]
+    - Align the vision encoder to LLM by instruction tuning on image-text pairings
+- Complex AI Prompting [[6](https://visualstudiomagazine.com/articles/2023/06/27/complex-prompting.aspx)]
+    - Putting the prompt last helps the LLM to stay on task
+    - New discipline of prompt engineering
+- AI/LLM Recipe Generator with chatGPT [[8](https://dev.to/digitalcanvas-dev/aillm-recipe-generator-with-chatgpt-4dnk)]
+    - Can conjure up engaging, intelligent conversations
+    - Simple recipe generator that gets some information from the user
+- Open-source LLM Battle – GPT4All vs LLaMA [[9](https://blog.finxter.com/gpt4all-vs-llama-unveiling-the-ai-showdown/)]
+    - GPT4All: Open-source software ecosystem
+    - LLaMA: Pre-trained language model
+- LLMs in Education [[10](https://www.forbes.com/sites/johanmoreno/2023/06/26/chatgpt-for-schools-merlyn-mind-launches-education-specific-llm/)]
+    - AI-enabled classroom digital assistants
+    - Curriculum-aligned, hallucination-resistant and age-appropriate content
+- Large Language Model Prompt Engineering for Complex Summarization [[11](https://devblogs.microsoft.com/cse/2023/06/27/gpt-summary-prompt-engineering/)]
+    - Prompt engineering techniques to create summaries of medical research publications
+    - Use of Azure OpenAI service to leverage LLM capabilities in generating summaries of medical documents for non-specialist readers

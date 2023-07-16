@@ -1,0 +1,32 @@
+# AI and Large Language Models (LLMs)
+- Definition and Importance [[5](https://vitalflux.com/large-language-models-concepts-examples/)]
+    - LLMs are trained on trillions of words across many natural-language tasks [[1](https://aws.amazon.com/blogs/aws/generative-ai-with-large-language-models-new-hands-on-course-by-deeplearning-ai-and-aws/)]
+    - LLMs can understand, learn, and generate text that’s nearly indistinguishable from text produced by humans [[1](https://aws.amazon.com/blogs/aws/generative-ai-with-large-language-models-new-hands-on-course-by-deeplearning-ai-and-aws/)]
+    - LLMs can engage in interactive conversations, answer questions, summarize dialogs and documents, and provide recommendations [[1](https://aws.amazon.com/blogs/aws/generative-ai-with-large-language-models-new-hands-on-course-by-deeplearning-ai-and-aws/)]
+    - LLMs are essential components for today’s AI applications [[5](https://vitalflux.com/large-language-models-concepts-examples/)]
+- Fine-tuning LLMs [[7](https://research.aimultiple.com/llm-fine-tuning/)]
+    - Fine-tuning methods are employed to tailor LLMs to the unique requirements of different application areas [[7](https://research.aimultiple.com/llm-fine-tuning/)]
+- Emerging Architectures for LLM Applications [[3](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)]
+    - LLMs are a powerful new primitive for building software [[3](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)]
+    - The LLM app stack shows the most common systems, tools, and design patterns used by AI startups and sophisticated tech companies [[3](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)]
+- Multilingual LLMs [[4](https://www.gtlaw.com.au/knowledge/can-ai-solve-tower-babel)]
+    - Multilingual language models are LLMs which are trained on text from dozens or hundreds of languages at once [[4](https://www.gtlaw.com.au/knowledge/can-ai-solve-tower-babel)]
+    - These models are used to preserve and grow languages [[4](https://www.gtlaw.com.au/knowledge/can-ai-solve-tower-babel)]
+- BERT and its Invention [[2](https://www.projectpro.io/article/bert-nlp-model-explained/558)]
+    - BERT (Bidirectional Encoder Representations from Transformers) is a state-of-the-art NLP model [[2](https://www.projectpro.io/article/bert-nlp-model-explained/558)]
+    - BERT is designed to understand the context of words in a sentence by looking at the words that come before and after it [[2](https://www.projectpro.io/article/bert-nlp-model-explained/558)]
+    - BERT is used for various NLP tasks like text classification, sentiment analysis, named entity recognition, and question answering [[2](https://www.projectpro.io/article/bert-nlp-model-explained/558)]
+- BART Model [[6](https://www.projectpro.io/article/transformers-bart-model-explained/553)]
+    - BART (Bidirectional and Auto-Regressive Transformers) is a variant of BERT and is used for text generation tasks like summarization and abstraction questions answering [[6](https://www.projectpro.io/article/transformers-bart-model-explained/553)]
+- Other LLMs [[9](https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/)]
+    - Inflection-1 is a large language model developed by Inflection, a well-funded AI startup [[9](https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/)]
+    - Inflection-1 is of roughly GPT-3.5 (AKA ChatGPT) size and capabilities [[9](https://techcrunch.com/2023/06/22/inflection-debuts-its-own-foundation-ai-model-to-rival-google-and-openai-llms/)]
+
+# AI and Large Language Models (LLMs)
+- BERT Model
+    - Characteristics
+        - Based on Transformer: BERT is built upon the Transformer architecture, which uses self-attention mechanisms to understand the context of words in a sentence.
+        - Uses bidirectional self-attention: Unlike some models that read the text input in one direction, BERT goes through the text in both directions, which allows it to understand the context better.
+    - Misconceptions
+        - Not primarily for image classification: BERT is designed for natural language processing tasks, not image classification.
+        - Does not break model size limit: While BERT is a large model, it does not eliminate the constraints on model size.

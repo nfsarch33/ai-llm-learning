@@ -1,0 +1,16 @@
+# AI and Large Language Models (LLMs)
+- NLP Models
+    - GPT (Generative Pretrained Transformer)
+        - GPT is a transformer-based model designed to generate text.
+        - It uses a left-to-right architecture, predicting each word based on the previous words in the text.
+        - It's used in tasks like text generation, translation, and summarization.
+    - BERT (Bidirectional Encoder Representations from Transformers)
+        - BERT is also a transformer-based model, but it's designed to understand the context of each word based on its surroundings.
+        - It's used in tasks like text classification, named entity recognition, and question answering.
+- Image Processing Models
+    - VGG (Visual Geometry Group)
+        - VGG is a convolutional neural network model for image recognition.
+        - It's not typically used in NLP tasks.
+    - LeNet
+        - LeNet is also a convolutional neural network, and it's one of the earliest models used for digit recognition.
+        - Like VGG, it's not typically used in NLP tasks.

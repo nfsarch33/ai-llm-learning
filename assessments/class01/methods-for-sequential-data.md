@@ -1,0 +1,14 @@
+# AI and Large Language Models (LLMs)
+- Sequence Data Processing Methods
+    - Recursive Neural Networks (RNN)
+        - RNNs are designed to work with sequence data by having loops in them, allowing information to persist.
+        - They are used in tasks where the order of the input data matters, such as language modeling and translation.
+    - Convolutional Neural Networks (CNN)
+        - While CNNs are primarily used for image processing, they can also be used for sequence data.
+        - CNNs can capture local dependencies in the data, making them useful for tasks like text classification and sentiment analysis.
+    - Attention Mechanisms
+        - Attention mechanisms allow models to focus on different parts of the input sequence when producing an output, improving the handling of long sequences.
+        - They are a key component of Transformer models, which are the basis for many LLMs, including BERT and GPT-3.
+    - Support Vector Machines (SVM)
+        - SVMs are not typically used for sequence data, but they can be adapted for such use cases.
+        - They are primarily used for classification tasks, including text classification.
